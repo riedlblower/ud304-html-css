@@ -1,0 +1,32 @@
+element.style {
+	display: flex;
+}
+
+* {
+/*   outline: 1px solid red !important; */
+    box-sizing: border-box;
+}
+
+
+.title
+ {
+	max-width: 1165px;
+	height: 70px;
+	color: white;
+	background-color: #33bebe;
+	
+}
+
+.app {
+display: flex;
+}
+
+.screenshot {
+	max-width: 460px;
+}
+
+.description {
+    max-width: 705px;
+	padding-left: 50px;
+	color: #7c8b88
+	}
