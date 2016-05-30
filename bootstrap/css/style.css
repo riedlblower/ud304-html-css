@@ -1,0 +1,48 @@
+body {
+    background-color: white; 
+}
+
+.row {
+    background-color: #131A2D;
+}
+
+
+.col-md-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+	}
+
+
+
+h2 {
+    color: #D0C4AB;
+    padding-left: 15px;
+	}
+
+h3 {
+    color: #D0C4AB;
+}
+
+.s1 {
+    background-color: white;
+}
+
+.s2 h3{
+ color: #131A2D;
+}
+
+.s2  h1{
+ color: #131A2D;
+}
+
+hr {
+  border-top: 5px solid #D0C4AB;
+  margin-left: -15px;
+  margin-right: -15px;
+	}
+
+body
+   {
+   margin-top: 45px;
+   margin-bottom: 45px;
+}
